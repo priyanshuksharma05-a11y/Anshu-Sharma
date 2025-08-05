@@ -1,0 +1,227 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#main
+{
+    height: 15vh;
+    width: 100%;
+    background-color: rgb(173, 208, 208);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+img
+{
+    width: 300px;
+    margin-left: 10px;
+}
+a{
+    color: black;
+   
+    margin: 5px;
+    font-weight: bold;
+}
+#links
+{
+    margin-right: 10px;
+    color: rgb(47, 2, 2);
+    font-size: 20px;
+}
+#me
+{ 
+    width:100%;
+    height: 95vh;;
+    background-color: rgb(210, 190, 197); 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 20px;
+}
+
+#h1
+{
+    font-size: 80px;
+   
+    
+    margin-bottom: 10px;
+}
+#p
+{
+
+    font-size: 40px;
+    margin-top: 0px;
+    
+}
+#btn
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color:rgb(124, 205, 238) ;
+    height: 50px;
+    width: 180px;
+    font-size: 20px;
+    border:none;
+    color: white;
+    cursor: pointer;
+    margin-top: 10px;
+    
+}
+
+#image
+{
+    background-color: rgb(210, 190, 197);
+    height:500px ;
+    width: 500px;
+
+}
+
+
+
+
+
+
+#abt
+{
+   
+    background-color:rgb(219, 207, 40); 
+    padding: 20px ;
+}
+#about
+{
+   
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#h2
+{
+    text-align: center;
+    font-size: 60px;
+}
+#about-para
+{
+    font-size: 30px;
+    width: 65%;
+
+}
+#image-abt
+{
+   
+    height: 400px;
+    width: 400px;
+    margin-right: 40px;
+}
+#Discord
+{
+    background-color: rgb(174, 244, 221);
+    padding: 20px;
+}
+#discord-main
+{
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    align-items: center;
+    justify-content: space-between;
+}
+#discord-h
+{
+    text-align: center;
+    font-size: 60px;
+}
+#discord-para
+{
+    font-size: 30px;
+    width: 60%;
+}
+#discord-img
+{
+    height: 400px;
+    width: 500px;
+}
+
+#Contact
+{
+    background-color: rgb(222, 243, 251);
+    padding: 30px;
+
+    align-items: center;
+    justify-content: center;
+}
+#contact-main
+{
+    height:60vh ;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+#contact-h
+{
+    text-align: center;
+}
+h4{
+    font-size: 70px;
+    text-align: center;
+    padding-top: 40px;
+    
+}
+#details{
+    width: 100%;
+    height: 80vh;
+    background-color: antiquewhite;
+}
+form{
+    padding-left: 600px;
+    padding-top: 50px;
+}
+#email{
+    width: 350px;
+    height: 23px;
+}
+#message{
+     width: 350px;
+    height: 150px;
+}
+button{
+    padding-left: 130px;
+    padding-right: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: aqua;
+    color: white;
+    border: 0px;
+}
+footer{
+    height: 50vh;
+    width: 100%;
+    background-color:aqua;
+    padding-left: 600px;
+    padding-top: 140px;
+}
+#link
+{
+    font-size: 20px;
+    margin: 20px;
+}
+#footer-h
+{
+    margin: 20px;
+    font-size: 10px;
+    margin-left: 80px;
+}
+
+    
